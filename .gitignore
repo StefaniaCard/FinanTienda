@@ -1,0 +1,11 @@
+# Files
+*.docx
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
